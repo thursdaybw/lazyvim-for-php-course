@@ -1,0 +1,59 @@
+# Welcome to Neovim Navigation Practice!
+
+## Moving Between Lines (j, k)
+First, try using `j` to **move down** to this line.
+
+Now, press `k` to **move back up** to the previous line.
+
+Keep pressing `j` to move down further and `k` to move back up.  
+This helps you navigate a file without using arrow keys.
+
+## Moving by Characters (h, l)
+Move your cursor to the **start** of this line.  
+Now, press `l` to move **right**, one character at a time.
+
+Press `h` to move **left** and go back.
+
+Try moving **back and forth** along this line using only `h` and `l`.
+
+## Moving by Words (w, e, b)
+Now, move down here using `j`.
+
+Press `w` to jump forward **to the start of the next word**.
+
+Press `e` to move forward **to the end of a word**.
+
+Press `b` to move **back to the start of the previous word**.
+
+Practice with these words:  
+banana apple orange strawberry pineapple
+
+## Jumping to the Start and End of a File (gg, G)
+Press `gg` to jump **to the top** of this file.  
+Press `G` to jump **to the bottom** of this file.  
+
+Try jumping to the top (`gg`) and then immediately back to the bottom (`G`).
+
+## Moving by Paragraphs ({, })
+Move down here using `j` until your cursor is on this line.
+
+Now, press `{` to jump **up** to the start of the previous paragraph.
+
+Press `}` to jump **down** to the start of the next paragraph.
+
+Paragraph 1:  
+This is a block of text that you should practice navigating with `{` and `}`.  
+
+Paragraph 2:  
+Move between paragraphs to quickly jump through sections of a document.
+
+## Scrolling (Ctrl-d, Ctrl-u)
+Use `Ctrl-d` to **scroll down** by half a page.  
+Use `Ctrl-u` to **scroll up** by half a page.  
+
+Try scrolling **down** a few times, then back **up**.
+
+## Now You're Ready!
+You’ve just practiced the most essential movement commands in Neovim.  
+Try experimenting on your own before moving on to editing!
+
